@@ -1,4 +1,4 @@
-- Hi, I’m Samuel Antonio (@sam-uel-a).
+- Hi, I’m Samuel Antonio (@Saelblck).
 - I’m interested in Electronics and programming.
 - I’m currently learning web development (HTML|CSS|JS) and language C.
 - How to reach me: Instagram (@saelblck).
