@@ -2,6 +2,8 @@
 Hi, I’m Samuel Antonio (@**Saelblck**).
 I have technical training in electronics and from a very early age, I have a love for technology.
 
+language: [português(pt-br)](https://github.com/saelblck/Saelblck/blob/main/README.md) • [english(en)](https://github.com/saelblck/Saelblck/blob/main/README-en.md)
+
 ## areas of interest
 - Electronics
 - Programming
