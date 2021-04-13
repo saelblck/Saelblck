@@ -1,7 +1,7 @@
 # Bem-vindo ao meu GitHub
 
 Olá, sou Samuel Antonio (@**Saelblck**).
-Tenho formação técnica em Eletrônica e estudante de programação, desde muito cedo adoro tecnologia.
+Tenho formação técnica em Eletrônica e sou estudante de programação, desde muito cedo adoro tecnologia.
 
 Idioma: [português(pt-br)](https://github.com/saelblck/Saelblck/blob/main/README.md) • [english(en)](https://github.com/saelblck/Saelblck/blob/main/README-en.md)
 
