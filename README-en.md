@@ -13,9 +13,4 @@ language: • [português(pt-br)](https://github.com/saelblck/Saelblck/blob/main
 - Language C.
 
 ## How to reach me
-Instagram ([@saelblck](https://www.instagram.com/saelblck)).
-
-<!---
-Saelblck/Saelblck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[social networks](https://saelblck.github.io/subpages/social.html)
