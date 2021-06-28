@@ -14,4 +14,4 @@ Idioma: • [português(pt-br)](https://github.com/saelblck/Saelblck/blob/main/R
 - Linguagem C
 
 ## como me encontrar
-Instagram ([@saelblck](https://www.instagram.com/saelblck))
+ [Redes Sociais](https://saelblck.github.io/subpages/social.html)
