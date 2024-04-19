@@ -1,11 +1,11 @@
-
-
 ### Seja bem-vindo, eu sou o Samuel A.
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saelblck)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelantoniofs/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saelblck&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saelblck&theme=merko&layout=compact)
+<div  align="center" style="margin-bottom:100px">
+  <img width=52.5% align="center" src="https://github-readme-stats.vercel.app/api?username=saelblck&show_icons=true&theme=merko"/>
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saelblck&theme=merko&layout=compact"/>
+</div>
 
 ### linguagens/tecnologias de estudo
 
